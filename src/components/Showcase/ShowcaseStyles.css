@@ -1,0 +1,30 @@
+
+.features-icons {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+  .features-icons .features-icons-item {
+    max-width: 20rem;
+  }
+  .features-icons .features-icons-item .features-icons-icon {
+    height: 7rem;
+  }
+  .features-icons .features-icons-item .features-icons-icon i {
+    font-size: 4.5rem;
+  }
+  
+  
+  
+  .showcase .showcase-text {
+    padding: 3rem;
+  }
+  .showcase .showcase-img {
+    background-image: url(../../assets/3.jpg);
+    min-height: 30rem;
+    background-size: cover;
+  }
+  @media (min-width: 768px) {
+    .showcase .showcase-text {
+      padding: 7rem;
+    }
+  }
